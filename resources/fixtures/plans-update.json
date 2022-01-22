@@ -1,0 +1,12 @@
+{
+    "before": {
+        "title": "Premium l",
+        "duration": 6,
+        "price": 49
+    },
+    "after": {
+        "title": "Premium ll",
+        "duration": 12,
+        "price": "99,00"
+    }
+}

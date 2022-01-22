@@ -1,0 +1,15 @@
+{
+    "student": {
+        "name": "Sara Connor",
+        "email": "sara@skynet.com",
+        "age": 25,
+        "weight": 60,
+        "feet_tall":1.65
+    },
+    "plan": {
+        "title": "Fit",
+        "duration": 6,
+        "price": "29.99"
+    },
+    "days": 182
+}
