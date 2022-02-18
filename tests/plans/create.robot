@@ -30,7 +30,7 @@ Cenário: Novo Plano
     [Teardown]                  Thinking And Take Screenshot    2
 
 Cenário: Todos os campos devem ser obrigatórios
-    ## Nesse teste ele falha, pois "O preço é pbrogatório só aparece quando você deleta manualmente o campo vazio, ou seja é realmente um bug"
+    ## Nesse teste ele falha, pois "O preço é obrigatório só aparece quando você deleta manualmente o campo vazio, ou seja é realmente um bug"
 
     @{expected_alerts}          Set Variable    Informe o título do plano      Informe a duração do plano em meses      O preço é obrigatório
     @{got_alerts}               Create List       
